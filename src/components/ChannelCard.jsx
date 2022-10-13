@@ -4,7 +4,7 @@ import { CheckCircle } from '@mui/icons-material'
 
 import { demoProfilePicture } from '../utils/constants'
 
-const ChannelCard = ({ channelDetail }) => (
+const ChannelCard = ({ channelDetail, marginTop }) => (
   <Box
     sx={{
       boxShadow: 'none',
@@ -24,7 +24,8 @@ const ChannelCard = ({ channelDetail }) => (
           flexDirection: 'column',
           justifyContent: 'center',
           textAlign: 'center',
-          color: '#fff'
+          color: '#fff',
+          marginTop,
         }}
       >
         <CardMedia
