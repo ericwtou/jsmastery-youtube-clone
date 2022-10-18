@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/jsmastery-youtube-clone/static/css/main.7064deb2.css",
+    "main.js": "/jsmastery-youtube-clone/static/js/main.3bd27e76.js",
+    "index.html": "/jsmastery-youtube-clone/index.html",
+    "main.7064deb2.css.map": "/jsmastery-youtube-clone/static/css/main.7064deb2.css.map",
+    "main.3bd27e76.js.map": "/jsmastery-youtube-clone/static/js/main.3bd27e76.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7064deb2.css",
+    "static/js/main.3bd27e76.js"
+  ]
+}
